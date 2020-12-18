@@ -32,13 +32,13 @@ Consiste na utilização de um ***dicionário*** e um ***set*** para atender o q
 
 * Para Executar o programa 
 
-    > 1. Após efetuar o download do Repositório
+    > 1. Após efetuar o download do Repositório entre na pasta referente ao Problema 1 e execute:
     ```pyton3
     python3 problem1.py
     ```
 
     
-    > 2. Insira alguns nome dos filmes presentes no dataset e informe se desena . Exemplos
+    > 2. Insira alguns nome dos filmes presentes no dataset e informe se deseja proseguir. Exemplos
     ```
         Digite o nome do Filme: Penelope
         Deseja Continuar?(S/N): S
@@ -48,10 +48,10 @@ Consiste na utilização de um ***dicionário*** e um ***set*** para atender o q
         Deseja Continuar?(S/N): N
     ```
 
-    > 3. Confira a lita gerada sem repetições 
+    > 3. Confira a lista gerada sem repetições no terminal
 
 ### Problema 2
-Utiliando a biblioteca pandas para gerenciamento dos dados, conforme solicitado na resolução sobre o csv e sua estrutura(id, nome, telefone, idade), julguei necessário aderir uma etapa de pré-processamento para atribuir/gerar dados mais consistentes, e assim testar um maior range de possibilidades. Foi utilizado um csv referente a ganhadores do Oscar e a partir deste template foi possível gerar e gerenciar as informações ali presente. O resultado desta etapa de pré processamento é outro csv que busca atender todas as colunas solicidatas, com maior diversidade nos dados.<br>
+Utilizando a biblioteca pandas para gerenciamento dos dados, conforme solicitado na resolução sobre o csv e sua estrutura(id, nome, telefone, idade), julguei necessário aderir uma etapa de pré-processamento para atribuir/gerar dados mais consistentes, e assim testar um maior range de possibilidades. Foi utilizado um csv referente a ganhadores do Oscar e a partir deste template foi possível gerar e gerenciar as informações ali presente. O resultado desta etapa de pré processamento é outro csv que busca atender todas as colunas solicidatas, com maior diversidade nos dados.<br>
 A parte de ordenação caracterizou-se como costumuziada tendo como primeiro critério a ordenação lexicográfica de acordo com o nome e, em caso de empate, o desempate seria pelo id.
 
 * Para Executar o programa

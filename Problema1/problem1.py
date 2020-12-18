@@ -11,7 +11,6 @@ second_list = set()
 for i in range(len(data)):
     dict[data.loc[i][0]] = data.loc[i][1]
   
-
 while(flag):
     os.system('cls' if os.name == 'nt' else 'clear')
     nome = input("Digite o nome do Filme: ")

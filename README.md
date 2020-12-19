@@ -1,6 +1,10 @@
 # Processo Seletivo
 Primeira Fase do Processo Seletivo para Estagiário
 
+## Informações Candidato
+Nome: Bruno Henrique Sousa Duarte<br>
+Graduando em Engenharia de Software pela Universidade de Brasília
+
 ## Sobre 
 A primeria parte deste processo seletivo consiste na contextualização e resolução de dois problemas utilizando ***Python***. 
 
